@@ -1,0 +1,14 @@
+partymemb=[]
+partymemb.append("Ahmed")
+print(partymemb)
+partymemb.append("Abdan")
+print(partymemb)
+partymemb.insert(0,"Sufiyan")
+print(partymemb)
+partymemb.remove("Sufiyan")
+print(partymemb)
+partymemb.reverse()
+print(partymemb)
+num=[2,5,1,8,17,0]
+num.sort()
+print(num)
